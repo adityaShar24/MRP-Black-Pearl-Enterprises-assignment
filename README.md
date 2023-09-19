@@ -11,7 +11,7 @@ You left your computer unlocked, and your friend copied a lot of your files to r
 The Python code to find duplicate files is provided in the `find_duplicate_files` function. You can test it with your example data.
 
 ### Output Screenshot:
-![Alt text](<Screenshot (112).png>)
+![Output](./Output1.png)
 
 ## Question 2: Maximum Duffel Bag Value
 
@@ -22,4 +22,4 @@ You are a cake thief and have two duffle bags with a full capacity of X Kg each.
 The Python code to find the maximum duffel bag value is provided in the `max_duffel_bag_value` function. You can test it with your example data.
 
 ### Output Screenshot:
-![Alt text](<Screenshot (113).png>)
+![Output](./Output2.png)
